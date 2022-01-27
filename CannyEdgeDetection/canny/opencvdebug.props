@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>$(OPENCV_DIR)\..\..\include\opencv2;$(OPENCV_DIR)\..\..\include\opencv;$(OPENCV_DIR)\..\..\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(OPENCV_DIR)\..\..\include\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(OPENCV_DIR)\..\..\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(OPENCV_DIR)\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opencv_aruco347d.lib;opencv_bgsegm347d.lib;opencv_bioinspired347d.lib;opencv_calib3d347d.lib;opencv_ccalib347d.lib;opencv_core347d.lib;opencv_datasets347d.lib;opencv_dnn347d.lib;opencv_dnn_objdetect347d.lib;opencv_dpm347d.lib;opencv_face347d.lib;opencv_features2d347d.lib;opencv_flann347d.lib;opencv_fuzzy347d.lib;opencv_hdf347d.lib;opencv_hfs347d.lib;opencv_highgui347d.lib;opencv_imgcodecs347d.lib;opencv_imgproc347d.lib;opencv_img_hash347d.lib;opencv_line_descriptor347d.lib;opencv_ml347d.lib;opencv_objdetect347d.lib;opencv_optflow347d.lib;opencv_phase_unwrapping347d.lib;opencv_photo347d.lib;opencv_plot347d.lib;opencv_reg347d.lib;opencv_rgbd347d.lib;opencv_saliency347d.lib;opencv_shape347d.lib;opencv_stereo347d.lib;opencv_stitching347d.lib;opencv_structured_light347d.lib;opencv_superres347d.lib;opencv_surface_matching347d.lib;opencv_text347d.lib;opencv_tracking347d.lib;opencv_video347d.lib;opencv_videoio347d.lib;opencv_videostab347d.lib;opencv_xfeatures2d347d.lib;opencv_ximgproc347d.lib;opencv_xobjdetect347d.lib;opencv_xphoto347d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
