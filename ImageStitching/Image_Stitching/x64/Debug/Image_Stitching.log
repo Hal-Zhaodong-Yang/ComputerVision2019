@@ -1,0 +1,48 @@
+﻿  源.cpp
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(121): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(122): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(156): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(157): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(289): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\code_and_program\opencv\image_stitching\image_stitching\源.cpp(290): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  Image_Stitching.vcxproj -> D:\code_and_program\opencv\Image_Stitching\x64\Debug\Image_Stitching.exe
