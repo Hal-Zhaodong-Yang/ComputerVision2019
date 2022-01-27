@@ -1,0 +1,40 @@
+﻿  源.cpp
+d:\code_and_program\opencv\harris\harris\源.cpp(42): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(43): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(44): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(90): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(95): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(96): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\code_and_program\opencv\harris\harris\源.cpp(103): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  正在生成代码
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Harris.vcxproj -> D:\code_and_program\opencv\Harris\x64\Release\Harris.exe
